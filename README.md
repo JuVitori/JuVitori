@@ -18,7 +18,6 @@ Sou apaixonada por tecnologia e atualmente estou mergulhando no mundo da program
   <img src="https://img.shields.io" alt="HTML5" />
   <img src="https://img.shields.io" alt="CSS3" />
 </p>
-
 ---
 
 ### 📫 Vamos nos conectar?
