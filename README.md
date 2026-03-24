@@ -23,8 +23,12 @@ Sou apaixonada por tecnologia e atualmente estou mergulhando no mundo da program
 ### 📫 Vamos nos conectar?
 Dê uma olhada nos meus repositórios para ver o que ando criando!
 
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
-[![E-mail](https://img.shields.io)](mailto:seu-email@exemplo.com)
+<p align="left">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
 ---
 
